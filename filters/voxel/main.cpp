@@ -51,6 +51,7 @@ int main()
     {
         viewer.spinOnce();
     }
+	pcl::io::savePCDFile<pcl::PointXYZ>("../../../resources/tableReduced.pcd", *cloud_filtered);
     cout << "Done" << endl;
     return (0);
 }
