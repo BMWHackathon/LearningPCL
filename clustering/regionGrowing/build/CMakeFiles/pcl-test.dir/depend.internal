@@ -291,7 +291,9 @@ CMakeFiles/pcl-test.dir/main.cpp.o
  /usr/local/include/pcl-1.8/pcl/search/pcl_search.h
  /usr/local/include/pcl-1.8/pcl/search/search.h
  /usr/local/include/pcl-1.8/pcl/segmentation/impl/region_growing.hpp
+ /usr/local/include/pcl-1.8/pcl/segmentation/impl/region_growing_rgb.hpp
  /usr/local/include/pcl-1.8/pcl/segmentation/region_growing.h
+ /usr/local/include/pcl-1.8/pcl/segmentation/region_growing_rgb.h
  /usr/local/include/pcl-1.8/pcl/visualization/area_picking_event.h
  /usr/local/include/pcl-1.8/pcl/visualization/boost.h
  /usr/local/include/pcl-1.8/pcl/visualization/cloud_viewer.h

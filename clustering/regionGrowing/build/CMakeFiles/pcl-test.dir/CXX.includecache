@@ -27,6 +27,8 @@ pcl/filters/passthrough.h
 -
 pcl/segmentation/region_growing.h
 -
+pcl/segmentation/region_growing_rgb.h
+-
 
 /usr/include/eigen3/Eigen/Cholesky
 Core
@@ -1996,6 +1998,16 @@ cmath
 time.h
 -
 
+/usr/local/include/pcl-1.8/pcl/segmentation/impl/region_growing_rgb.hpp
+pcl/segmentation/region_growing_rgb.h
+-
+pcl/search/search.h
+-
+pcl/search/kdtree.h
+-
+queue
+-
+
 /usr/local/include/pcl-1.8/pcl/segmentation/region_growing.h
 pcl/pcl_base.h
 -
@@ -2012,6 +2024,12 @@ math.h
 time.h
 -
 pcl/segmentation/impl/region_growing.hpp
+-
+
+/usr/local/include/pcl-1.8/pcl/segmentation/region_growing_rgb.h
+pcl/segmentation/region_growing.h
+-
+pcl/segmentation/impl/region_growing_rgb.hpp
 -
 
 /usr/local/include/pcl-1.8/pcl/visualization/area_picking_event.h

@@ -290,7 +290,9 @@ CMakeFiles/pcl-test.dir/main.cpp.o: /usr/local/include/pcl-1.8/pcl/search/organi
 CMakeFiles/pcl-test.dir/main.cpp.o: /usr/local/include/pcl-1.8/pcl/search/pcl_search.h
 CMakeFiles/pcl-test.dir/main.cpp.o: /usr/local/include/pcl-1.8/pcl/search/search.h
 CMakeFiles/pcl-test.dir/main.cpp.o: /usr/local/include/pcl-1.8/pcl/segmentation/impl/region_growing.hpp
+CMakeFiles/pcl-test.dir/main.cpp.o: /usr/local/include/pcl-1.8/pcl/segmentation/impl/region_growing_rgb.hpp
 CMakeFiles/pcl-test.dir/main.cpp.o: /usr/local/include/pcl-1.8/pcl/segmentation/region_growing.h
+CMakeFiles/pcl-test.dir/main.cpp.o: /usr/local/include/pcl-1.8/pcl/segmentation/region_growing_rgb.h
 CMakeFiles/pcl-test.dir/main.cpp.o: /usr/local/include/pcl-1.8/pcl/visualization/area_picking_event.h
 CMakeFiles/pcl-test.dir/main.cpp.o: /usr/local/include/pcl-1.8/pcl/visualization/boost.h
 CMakeFiles/pcl-test.dir/main.cpp.o: /usr/local/include/pcl-1.8/pcl/visualization/cloud_viewer.h
