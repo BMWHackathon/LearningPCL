@@ -1,3 +1,0 @@
-/home/charbel/Projects/PCLtest/PCLtutorial/clustering/modelOutlier/build/CMakeFiles/edit_cache.dir
-/home/charbel/Projects/PCLtest/PCLtutorial/clustering/modelOutlier/build/CMakeFiles/rebuild_cache.dir
-/home/charbel/Projects/PCLtest/PCLtutorial/clustering/modelOutlier/build/CMakeFiles/pcl-test.dir

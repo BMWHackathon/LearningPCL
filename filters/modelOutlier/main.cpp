@@ -4,6 +4,7 @@
 #include <pcl/filters/model_outlier_removal.h>
 #include <pcl/visualization/cloud_viewer.h>
 
+//Should learn more about this filter and its usecases
 using namespace std;
 int main()
 {

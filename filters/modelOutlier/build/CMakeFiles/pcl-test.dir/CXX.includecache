@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/charbel/Projects/PCLtest/PCLtutorial/clustering/modelOutlier/main.cpp
+/home/charbel/Projects/PCLtest/PCLtutorial/filters/modelOutlier/main.cpp
 iostream
 -
 pcl/io/pcd_io.h

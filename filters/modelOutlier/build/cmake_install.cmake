@@ -1,4 +1,4 @@
-# Install script for directory: /home/charbel/Projects/PCLtest/PCLtutorial/clustering/modelOutlier
+# Install script for directory: /home/charbel/Projects/PCLtest/PCLtutorial/filters/modelOutlier
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/charbel/Projects/PCLtest/PCLtutorial/clustering/modelOutlier/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/charbel/Projects/PCLtest/PCLtutorial/filters/modelOutlier/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
