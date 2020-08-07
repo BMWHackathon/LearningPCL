@@ -1,0 +1,4 @@
+We can compress and decompress a cloud
+We can detect changes between 2 point clouds
+
+
