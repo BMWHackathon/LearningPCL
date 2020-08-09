@@ -1,8 +1,10 @@
 1- io//
-2- visualization//
+2- visualization  -> Should learn about range image visualization and 
+everything related to visualization
+
 3- filtering//
 4- range images//
-5- keypoints
+5- keypoints//
 6- kdtree
 7- octree
 8- features
