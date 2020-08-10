@@ -1,0 +1,4 @@
+${workspaceFolder}/**
+/usr/local/include/pcl-1.8
+/usr/include/eigen3
+/usr/local/include/vtk-7.1

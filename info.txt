@@ -27,3 +27,6 @@ most template functions take their parameters by value or (const) reference, how
 because iterator syntax is similar to that of pointers (asterisk to "dereference"), any
 template function that expects iterators as arguments will also by default accept pointers
 as well (and not check for NULL since the NULL iterator concept has a different syntax).
+
+
+http://robotica.unileon.es/index.php/PCL/OpenNI_tutorial_4:_3D_object_recognition_(descriptors)#PCLHistogramVisualizer

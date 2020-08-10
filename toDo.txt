@@ -5,8 +5,8 @@ everything related to visualization
 3- filtering//
 4- range images//
 5- keypoints//
-6- kdtree
-7- octree
+6- kdtree//
+7- octree//
 8- features
 9- sample consensus
 10- segmentation

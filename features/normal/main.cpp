@@ -10,7 +10,7 @@ int main()
 {
     //Loading point cloud
     pcl::PointCloud<pcl::PointXYZ>::Ptr cloud(new pcl::PointCloud<pcl::PointXYZ>);
-    pcl::io::loadPCDFile("../../../resources/milk.pcd", *cloud);
+    pcl::io::loadPCDFile("../../../resources/bunny.pcd", *cloud);
 
     pcl::PointCloud<pcl::Normal>::Ptr cloud_normals(new pcl::PointCloud<pcl::Normal>);
 
@@ -46,7 +46,7 @@ int main()
     else if (mode == 2)
     {
         //Integral estimation
-
+	cout<<cloud->width<<"  "<<cloud->height<<endl;
         pcl::IntegralImageNormalEstimation<pcl::PointXYZ, pcl::Normal> ne;
         ne.setNormalEstimationMethod(ne.AVERAGE_3D_GRADIENT);
         ne.setMaxDepthChangeFactor(0.02f);
