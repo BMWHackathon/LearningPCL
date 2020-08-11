@@ -7,7 +7,7 @@ everything related to visualization
 5- keypoints//
 6- kdtree//
 7- octree//
-8- features
+8- features// Should look into descriptors uses more and representations
 9- sample consensus
 10- segmentation
 11- surface
