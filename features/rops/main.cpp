@@ -60,9 +60,10 @@ int main (int argc, char** argv)
   pcl::PointCloud<pcl::Histogram <135> >::Ptr histograms (new pcl::PointCloud <pcl::Histogram <135> > ());
   feature_estimator.compute (*histograms);
 
+  std::cout<<histograms
     pcl::visualization::PCLHistogramVisualizer viewer;
  
-    viewer.addFeatureHistogram(*histograms,300);
+    viewer.addFeatureHistogram(*histograms,100);
     
      while (1)
     {

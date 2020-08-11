@@ -30,3 +30,5 @@ as well (and not check for NULL since the NULL iterator concept has a different 
 
 
 http://robotica.unileon.es/index.php/PCL/OpenNI_tutorial_4:_3D_object_recognition_(descriptors)#PCLHistogramVisualizer
+
+http://robotica.unileon.es/index.php/PCL/OpenNI_tutorial_4:_3D_object_recognition_(descriptors)
