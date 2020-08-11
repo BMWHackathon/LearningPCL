@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/charbel/Projects/PCLtest/PCLtutorial/filters/floorremoval/main.cpp
+/home/charbel/Projects/PCLtest/PCLtutorial/segmentation/planarModel/main.cpp
 iostream
 -
 pcl/ModelCoefficients.h

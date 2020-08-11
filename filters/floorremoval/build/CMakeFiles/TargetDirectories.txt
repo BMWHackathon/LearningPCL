@@ -1,3 +1,0 @@
-/home/charbel/Projects/PCLtest/PCLtutorial/filters/floorremoval/build/CMakeFiles/edit_cache.dir
-/home/charbel/Projects/PCLtest/PCLtutorial/filters/floorremoval/build/CMakeFiles/rebuild_cache.dir
-/home/charbel/Projects/PCLtest/PCLtutorial/filters/floorremoval/build/CMakeFiles/pcl-test.dir
