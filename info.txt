@@ -1,5 +1,8 @@
 We can compress and decompress a cloud
 We can detect changes between 2 point clouds
+Super voxel segmentation -> learn it if needed
+
+
 
 1. Pass by value when the function does not want to modify the parameter and the
 value is easy to copy (ints, doubles, char, bool, etc... simple types. std::string,
