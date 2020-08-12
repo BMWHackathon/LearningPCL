@@ -1695,6 +1695,8 @@ pcl/octree/impl/octree_pointcloud.hpp
 /usr/local/include/pcl-1.8/pcl/octree/octree_pointcloud_changedetector.h
 octree_pointcloud.h
 /usr/local/include/pcl-1.8/pcl/octree/octree_pointcloud.h
+octree2buf_base.h
+/usr/local/include/pcl-1.8/pcl/octree/octree2buf_base.h
 
 /usr/local/include/pcl-1.8/pcl/octree/octree_pointcloud_density.h
 octree_pointcloud.h

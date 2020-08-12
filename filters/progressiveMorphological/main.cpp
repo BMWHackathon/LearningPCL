@@ -15,7 +15,7 @@ int main()
     pcl::PointCloud<pcl::PointXYZ>::Ptr cloud_f(new pcl::PointCloud<pcl::PointXYZ>);
 
     cout << "Loading file" << endl;
-    pcl::io::loadPCDFile("../../../resources/lamppost.pcd", *cloud);
+    pcl::io::loadPCDFile("../../../resources/tableReduced.pcd", *cloud);
     cout << "Cloud before filtering: " << cloud->points.size() << endl;
     cout << "Filtering" << endl;
     pcl::PointIndicesPtr ground(new pcl::PointIndices);
@@ -49,6 +49,15 @@ cout<<"Indices size: "<<ground->indices.size()<<endl;
     {
         viewer.spinOnce();
     }
-
+// Extract non-ground returns
+  extract.setNegative (true);
+  extract.filter (*cloud_filtered);
+cout << "Cloud afterfiltering: " << cloud_filtered->points.size() << endl;
+pcl::visualization::PCLVisualizer viewer2("PCL Viewer2");
+    viewer2.addPointCloud<pcl::PointXYZ>(cloud_filtered);
+    while (!viewer2.wasStopped())
+    {
+        viewer2.spinOnce();
+    }
     return 0;
 }
