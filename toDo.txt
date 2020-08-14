@@ -9,7 +9,7 @@ everything related to visualization
 7- octree//
 8- features// Should look into descriptors uses more and representations
 9- sample consensus//
-10- segmentation
+10- segmentation//
 11- surface
 12- registration
 13- recognition

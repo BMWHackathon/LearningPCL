@@ -34,4 +34,6 @@ as well (and not check for NULL since the NULL iterator concept has a different 
 
 http://robotica.unileon.es/index.php/PCL/OpenNI_tutorial_4:_3D_object_recognition_(descriptors)#PCLHistogramVisualizer
 
+https://github.com/udacity/SFND_Lidar_Obstacle_Detection
+
 http://robotica.unileon.es/index.php/PCL/OpenNI_tutorial_4:_3D_object_recognition_(descriptors)
