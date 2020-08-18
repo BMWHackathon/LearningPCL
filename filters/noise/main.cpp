@@ -20,7 +20,7 @@ int main()
     cin >> mode;
     cout << "Chosen method: " << mode << endl;
     cout << "Filtering" << endl;
-
+    cout<< "Size before filtering: "<<cloud->points.size()<<endl;
     if (mode == 1)
     {
         pcl::StatisticalOutlierRemoval<pcl::PointXYZ> sor;
@@ -44,6 +44,7 @@ int main()
         cout << "terminated" << endl;
         return 0;
     }
+cout<<"Size after filtering: "<<cloud_filtered->points.size()<<endl;
     pcl::visualization::PCLVisualizer viewer("PCL Viewer");
     viewer.addPointCloud<pcl::PointXYZ>(cloud_filtered);
     while (!viewer.wasStopped())
