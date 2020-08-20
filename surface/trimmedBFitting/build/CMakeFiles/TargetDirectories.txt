@@ -1,0 +1,3 @@
+/home/charbel/Projects/PCLtest/PCLtutorial/surface/trimmedBFitting/build/CMakeFiles/edit_cache.dir
+/home/charbel/Projects/PCLtest/PCLtutorial/surface/trimmedBFitting/build/CMakeFiles/rebuild_cache.dir
+/home/charbel/Projects/PCLtest/PCLtutorial/surface/trimmedBFitting/build/CMakeFiles/pcl-test.dir
